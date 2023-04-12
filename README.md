@@ -6,11 +6,6 @@ Before starting, you will need:
 * An AWS account
 * Basic knowledge of AWS services like S3, Lambda, and CloudWatch
 
-## Architecture
-
-The architecture of the experiment is as follows:
-<br></br>
-
 
 ## How to run the experiment
 To run this experiment, follow these steps:
